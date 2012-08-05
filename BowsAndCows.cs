@@ -5,6 +5,14 @@ using System.Text;
 
 namespace Bows_And_Cows
 {
+    /// <summary>
+    /// Falling rock game made with list and struct
+    /// </summary>
+    /// 
+    /// <copyright>
+    /// (c) Vasil Hristov, 2012 - http://www.vhristov.com
+    /// </copyright>
+    /// 
    public class BowsAndCows
     {
         private int[] number = new int[4];
